@@ -125,11 +125,8 @@
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-13" value="Target Domain" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="374" y="246" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzE6I9QJx2iuiXVEBKmM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-114.76" y="193" as="sourcePoint" />
-            <mxPoint x="24.249999999999993" y="198.048" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="OzE6I9QJx2iuiXVEBKmM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.043;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qY_3rM2hY4L9u2oqHAMF-3" target="qY_3rM2hY4L9u2oqHAMF-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
