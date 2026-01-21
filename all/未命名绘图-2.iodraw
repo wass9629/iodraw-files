@@ -8,7 +8,7 @@
           <mxGeometry x="-41" y="141" width="325" height="145" as="geometry" />
         </mxCell>
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;fillStyle=solid;glass=0;rotation=0;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="31" y="195" width="193" height="82" as="geometry">
+          <mxGeometry x="619" y="342" width="193" height="82" as="geometry">
             <mxPoint x="20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -21,8 +21,8 @@
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Shared feature extractor&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;rounded=0;strokeWidth=2;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="95" y="141" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qY_3rM2hY4L9u2oqHAMF-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="384" width="120" height="60" as="geometry" />
+        <mxCell id="qY_3rM2hY4L9u2oqHAMF-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="56" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
