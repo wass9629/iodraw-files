@@ -327,7 +327,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tlxSPtiOdS3OQw2iwelU-49" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Target Path&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-349" y="147" width="102" height="39" as="geometry" />
+          <mxGeometry x="-76" y="44" width="81" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
