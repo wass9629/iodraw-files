@@ -128,7 +128,7 @@
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-5" value="&lt;span style=&quot;font-family: Georgia; font-size: 24px;&quot;&gt;Student Model&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="201" y="306" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzE6I9QJx2iuiXVEBKmM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzE6I9QJx2iuiXVEBKmM-7" target="OzE6I9QJx2iuiXVEBKmM-34">
+        <mxCell id="OzE6I9QJx2iuiXVEBKmM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="OzE6I9QJx2iuiXVEBKmM-7" target="OzE6I9QJx2iuiXVEBKmM-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzE6I9QJx2iuiXVEBKmM-7" target="OzE6I9QJx2iuiXVEBKmM-34">
