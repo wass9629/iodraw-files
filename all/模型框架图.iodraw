@@ -246,8 +246,8 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-12" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Target Prototypes&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614.88" y="393" width="86.5" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="419" width="69" height="69" as="geometry" />
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-13" value="Positive Queue&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="489.75" y="500" width="69" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
