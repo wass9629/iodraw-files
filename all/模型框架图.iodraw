@@ -265,7 +265,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tlxSPtiOdS3OQw2iwelU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tlxSPtiOdS3OQw2iwelU-14" target="tlxSPtiOdS3OQw2iwelU-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="638" y="569" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tlxSPtiOdS3OQw2iwelU-14" value="&lt;font style=&quot;&quot; face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Negative Queue&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="623.63" y="500" width="69" height="69" as="geometry" />
@@ -277,6 +281,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tlxSPtiOdS3OQw2iwelU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.164;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0066CC;" edge="1" parent="1" source="tlxSPtiOdS3OQw2iwelU-13" target="tlxSPtiOdS3OQw2iwelU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.879;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tlxSPtiOdS3OQw2iwelU-14" target="tlxSPtiOdS3OQw2iwelU-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
