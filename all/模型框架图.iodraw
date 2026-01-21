@@ -11,7 +11,7 @@
           <mxGeometry x="-12" y="499" width="443" height="141" as="geometry" />
         </mxCell>
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-12" y="344.5" width="443" height="113" as="geometry" />
+          <mxGeometry x="-12" y="344.5" width="443" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-25" y="105" width="298" height="187" as="geometry" />
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-30" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Georgia&quot;&gt;Instance-level Adversarial Network&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="499" width="322" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzE6I9QJx2iuiXVEBKmM-31" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="314" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
