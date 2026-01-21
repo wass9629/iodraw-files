@@ -13,7 +13,7 @@
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-13" y="370.5" width="467" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="qY_3rM2hY4L9u2oqHAMF-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qY_3rM2hY4L9u2oqHAMF-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-25" y="105" width="298" height="187" as="geometry" />
         </mxCell>
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -231,7 +231,7 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-5" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Semantic Verification&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614.88" y="236" width="113" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-7" value="" style="endArrow=none;html=1;rounded=0;horizontal=0;strokeColor=#0066CC;" edge="1" parent="1">
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-7" value="" style="endArrow=none;html=1;rounded=0;horizontal=0;strokeColor=#0066CC;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="142" y="685" as="sourcePoint" />
             <mxPoint x="142" y="672.5" as="targetPoint" />
