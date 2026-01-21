@@ -231,8 +231,8 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-3" value="EMA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="431" y="301" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="240" width="115" height="45" as="geometry" />
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-5" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Semantic Verification&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="236" width="113" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
