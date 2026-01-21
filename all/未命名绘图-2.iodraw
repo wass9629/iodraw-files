@@ -9,8 +9,8 @@
             <mxPoint x="20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qY_3rM2hY4L9u2oqHAMF-2" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="381" y="214" width="60" height="30" as="geometry" />
+        <mxCell id="qY_3rM2hY4L9u2oqHAMF-2" value="Backbone+FPN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90.5" y="213.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
