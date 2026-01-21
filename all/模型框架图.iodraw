@@ -267,13 +267,13 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-21" value="&lt;div&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px;&quot;&gt;Similarity Calculation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; size=&quot;3&quot;&gt;&amp;amp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot; size=&quot;3&quot;&gt;Contrastive Loss&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="615" width="165" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.062;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tlxSPtiOdS3OQw2iwelU-21">
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.062;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0000;" edge="1" parent="1" target="tlxSPtiOdS3OQw2iwelU-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="524.11" y="569" as="sourcePoint" />
             <mxPoint x="524.11" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.062;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.062;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0066CC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="539.11" y="569" as="sourcePoint" />
             <mxPoint x="539" y="613" as="targetPoint" />
