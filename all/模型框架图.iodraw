@@ -8,7 +8,7 @@
           <mxGeometry x="-26" y="302" width="745" height="428" as="geometry" />
         </mxCell>
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="499" width="443" height="141" as="geometry" />
+          <mxGeometry x="-12" y="499" width="443" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qY_3rM2hY4L9u2oqHAMF-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-12" y="344.5" width="443" height="129.5" as="geometry" />
@@ -162,8 +162,8 @@
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-31" value="P3 Features" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="447.5" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzE6I9QJx2iuiXVEBKmM-32" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="183" y="314" width="60" height="30" as="geometry" />
+        <mxCell id="OzE6I9QJx2iuiXVEBKmM-32" value="&lt;div&gt;Instance&lt;/div&gt;&lt;div&gt;Features&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="610" width="67" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
