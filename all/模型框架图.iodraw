@@ -303,8 +303,8 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-42" value="&lt;font face=&quot;Georgia&quot;&gt;Update&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="639" y="331" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-211" y="18" width="120" height="60" as="geometry" />
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-43" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="18" width="957" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
