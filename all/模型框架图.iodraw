@@ -363,8 +363,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-61" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198" y="204" width="60" height="30" as="geometry" />
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-61" value="Source Domain" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="79" width="87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
