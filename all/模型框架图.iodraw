@@ -132,7 +132,7 @@
           <mxGeometry x="-9.996470588235127" y="525.9970588235295" width="63" height="102" as="geometry" />
         </mxCell>
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-13" value="Target Domain" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="246" width="60" height="30" as="geometry" />
+          <mxGeometry x="291" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzE6I9QJx2iuiXVEBKmM-22" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#CC0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
