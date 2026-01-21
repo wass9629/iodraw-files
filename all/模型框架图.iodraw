@@ -261,14 +261,9 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-13" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Positive Queue&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="489.75" y="500" width="69" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tlxSPtiOdS3OQw2iwelU-14" target="tlxSPtiOdS3OQw2iwelU-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tlxSPtiOdS3OQw2iwelU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tlxSPtiOdS3OQw2iwelU-14" target="tlxSPtiOdS3OQw2iwelU-21">
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tlxSPtiOdS3OQw2iwelU-21">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="638" y="569" />
-            </Array>
+            <mxPoint x="635" y="574" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tlxSPtiOdS3OQw2iwelU-14" value="&lt;font style=&quot;&quot; face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Negative Queue&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
