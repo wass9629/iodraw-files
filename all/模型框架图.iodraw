@@ -317,6 +317,9 @@
         <mxCell id="tlxSPtiOdS3OQw2iwelU-45" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="277" y="332" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tlxSPtiOdS3OQw2iwelU-47" value="Source Path" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="42" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
