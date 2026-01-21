@@ -153,8 +153,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzE6I9QJx2iuiXVEBKmM-29" value="Instance-level Adversarial Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzE6I9QJx2iuiXVEBKmM-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-12" y="477" width="443" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OzE6I9QJx2iuiXVEBKmM-30" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="484" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
