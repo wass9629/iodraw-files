@@ -393,7 +393,16 @@
           <mxGeometry x="631" y="163" width="55" height="51" as="geometry" />
         </mxCell>
         <mxCell id="AEm4JjjspkfeEleG2_Eq-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Head&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="972" y="161" width="55" height="51" as="geometry" />
+          <mxGeometry x="993" y="163" width="55" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="AEm4JjjspkfeEleG2_Eq-7" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;conv 3×3&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="163" width="55" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="AEm4JjjspkfeEleG2_Eq-8" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Group Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="163" width="55" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="AEm4JjjspkfeEleG2_Eq-9" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Rule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="904" y="163" width="55" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
