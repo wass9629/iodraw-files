@@ -511,14 +511,23 @@
         <mxCell id="AEm4JjjspkfeEleG2_Eq-46" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAgCAYAAABkWOo9AAABYElEQVRYCe2Vi23FMAhFPRcDMQ/TsAzD3Ao7xLRy1feCW6mSLUWxcEguh08a/slq/0QnjtDdmTpED9HdBHa/71mNmoKpobW4CGIAup1AohDRrVofCHWRAtfVlxkshIfdBJt1PpmjCu4kCTwwQmgQNWWQn4XgCGbD/QHR/FWDEI+0Z/Orew+sB/uzQ0moCaE1xsvVaALi9PSfCPWPtquJbiBO+GqwSL8ymBlENMrCSyPEulAWsJ+xzrq/3zc3D4mOOv1Ex5tevONHm9175S6sWxdEXXQfGEII/VPe3L0v1LQ3j4+gr0s5EQ5ROb1hC8d05oFtEGpwEXNujvR62vSeU98TDcr4baHKDFWFsI8ehloWnihi1qgH0WNI1ID4UVwNmM7qRJ1C/IFcZKTN7zHor/NVOeTHK/v3a7TytYLvEVqAt3Q9RJdYCsZDtABv6XqILrEUjIdoAd7S9RBdYikYPwCqkByPdnrYjQAAAABJRU5ErkJggg==&quot;&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1380" y="252.25" width="42.5" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="SkFtKeapbwU2ZwdjKvJ3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR_kYE8HrE2TU6G1X7n--2" target="oR_kYE8HrE2TU6G1X7n--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oR_kYE8HrE2TU6G1X7n--2" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;conv 3×3&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="323" y="186" width="55" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="SkFtKeapbwU2ZwdjKvJ3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR_kYE8HrE2TU6G1X7n--3" target="oR_kYE8HrE2TU6G1X7n--4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oR_kYE8HrE2TU6G1X7n--3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Group Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="186" width="55" height="51" as="geometry" />
         </mxCell>
         <mxCell id="oR_kYE8HrE2TU6G1X7n--4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Rule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="479" y="186" width="55" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="SkFtKeapbwU2ZwdjKvJ3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR_kYE8HrE2TU6G1X7n--5" target="oR_kYE8HrE2TU6G1X7n--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oR_kYE8HrE2TU6G1X7n--5" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;conv 3×3&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="321" y="298" width="55" height="51" as="geometry" />
