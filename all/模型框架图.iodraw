@@ -550,8 +550,8 @@
         <mxCell id="SkFtKeapbwU2ZwdjKvJ3-1" value="&lt;span style=&quot;font-family: Georgia;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Decoupling Head&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="317" y="138" width="217" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkFtKeapbwU2ZwdjKvJ3-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Georgia&quot;&gt;f_morphology&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="641" y="408" width="87" height="30" as="geometry" />
+        <mxCell id="SkFtKeapbwU2ZwdjKvJ3-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Georgia&quot;&gt;&lt;b&gt;f_morphology&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526" y="226.5" width="87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
