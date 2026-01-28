@@ -13,8 +13,8 @@
         <mxCell id="68OGTR789X_p6hTGBaTh-3" value="&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MIDOG 2021&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="984" y="77" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="68OGTR789X_p6hTGBaTh-4" value="GT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="698" y="409" width="60" height="30" as="geometry" />
+        <mxCell id="68OGTR789X_p6hTGBaTh-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;GT&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="116" y="656" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
