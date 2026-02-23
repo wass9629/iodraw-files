@@ -843,7 +843,7 @@
         <mxCell id="AU6gt9H3MWmn1W7XKWg4-69" value="&lt;font style=&quot;&quot; face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Negative Queue&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="617.63" y="520.5" width="69" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="rTWSsbOQ0qcRJ5B0TNmo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AU6gt9H3MWmn1W7XKWg4-70" target="AU6gt9H3MWmn1W7XKWg4-48">
+        <mxCell id="rTWSsbOQ0qcRJ5B0TNmo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="AU6gt9H3MWmn1W7XKWg4-70" target="AU6gt9H3MWmn1W7XKWg4-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="438" y="673" />
