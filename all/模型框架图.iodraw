@@ -947,7 +947,7 @@
           <mxGeometry x="-81" y="229" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rTWSsbOQ0qcRJ5B0TNmo-2" value="&lt;i data-index-in-node=&quot;30&quot; data-path-to-node=&quot;9,0,0&quot;&gt;Backpropagation&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="429" y="767" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="633" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
