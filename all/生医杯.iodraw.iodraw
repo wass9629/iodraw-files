@@ -8,16 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yiOddBerZ9vubkzH3kLC-1" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;WSI&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="290" height="290" as="geometry" />
+          <mxGeometry x="40" y="490" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="yiOddBerZ9vubkzH3kLC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yiOddBerZ9vubkzH3kLC-2" target="yiOddBerZ9vubkzH3kLC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yiOddBerZ9vubkzH3kLC-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;预处理&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yiOddBerZ9vubkzH3kLC-4" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;patch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="242.5" width="150" height="185" as="geometry" />
+          <mxGeometry x="620" y="542.5" width="150" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="yiOddBerZ9vubkzH3kLC-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
