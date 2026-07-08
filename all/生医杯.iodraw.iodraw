@@ -22,8 +22,8 @@
         <mxCell id="yiOddBerZ9vubkzH3kLC-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="860" y="587.5" width="165" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="yiOddBerZ9vubkzH3kLC-7" value="视觉编码器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="420" width="180" height="30" as="geometry" />
+        <mxCell id="yiOddBerZ9vubkzH3kLC-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;视觉编码器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="420" width="180" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
